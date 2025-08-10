@@ -1,0 +1,53 @@
+### Evaluation Summary
+
+- **Model Dir**: `./car_brand_model_final`
+- **Split Dir**: `Car Brand Classification Dataset/test`
+- **Num Samples**: 2475
+- **Accuracy**: 0.7968
+
+#### Classification Report
+
+```
+               precision    recall  f1-score   support
+
+        Acura     0.8356    0.8133    0.8243        75
+ Aston Martin     0.8118    0.9200    0.8625        75
+         Audi     0.9571    0.8933    0.9241        75
+          BMW     0.8983    0.7067    0.7910        75
+      Bentley     0.7204    0.8933    0.7976        75
+        Buick     0.9123    0.6933    0.7879        75
+     Cadillac     0.7561    0.8267    0.7898        75
+    Chevrolet     0.8864    0.5200    0.6555        75
+     Chrysler     0.8684    0.8800    0.8742        75
+        Dodge     0.8676    0.7867    0.8252        75
+         FIAT     0.8684    0.8800    0.8742        75
+         Ford     0.8333    0.7333    0.7801        75
+          GMC     0.8784    0.8667    0.8725        75
+        Honda     0.8451    0.8000    0.8219        75
+      Hyundai     0.5761    0.7067    0.6347        75
+     INFINITI     0.7126    0.8267    0.7654        75
+       Jaguar     0.8730    0.7333    0.7971        75
+         Jeep     0.9000    0.8400    0.8690        75
+          Kia     0.7639    0.7333    0.7483        75
+   Land Rover     0.8026    0.8133    0.8079        75
+        Lexus     0.6263    0.8267    0.7126        75
+      Lincoln     0.6154    0.7467    0.6747        75
+         MINI     0.9583    0.9200    0.9388        75
+        Mazda     0.9180    0.7467    0.8235        75
+Mercedes-Benz     0.8052    0.8267    0.8158        75
+   Mitsubishi     0.8667    0.8667    0.8667        75
+       Nissan     0.8387    0.6933    0.7591        75
+      Porsche     0.9014    0.8533    0.8767        75
+          Ram     0.8810    0.9867    0.9308        75
+       Subaru     0.6163    0.7067    0.6584        75
+       Toyota     0.5310    0.8000    0.6383        75
+   Volkswagen     0.8889    0.7467    0.8116        75
+        Volvo     0.7910    0.7067    0.7465        75
+
+     accuracy                         0.7968      2475
+    macro avg     0.8123    0.7968    0.7987      2475
+ weighted avg     0.8123    0.7968    0.7987      2475
+
+``
+
+Confusion matrix görseli: `confusion_matrix_test_split.png`
