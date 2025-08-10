@@ -1,0 +1,19 @@
+Car Brand Classification Dataset
+car_brand_model
+firstTry
+car_brand_model_final.DS_Store
+/Car Brand Classification Dataset/
+/data/
+/models/
+*.pt
+*.bin
+*.ckpt
+__pycache__/
+.env
+.venv
+.DS_Store
+car_brand_model_final/car_brand_model_final/
+car_brand_model_final/car_brand_model_final/
+car_brand_model_final/car_brand_model_final/
+car_brand_model_final/car_brand_model_final/
+/Users/siyaksares/Developer/GitHub/fine-tuning-blip-for-cars/car_brand_model_final
