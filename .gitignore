@@ -17,3 +17,11 @@ car_brand_model_final/car_brand_model_final/
 car_brand_model_final/car_brand_model_final/
 car_brand_model_final/car_brand_model_final/
 /Users/siyaksares/Developer/GitHub/fine-tuning-blip-for-cars/car_brand_model_final
+car_brand_model_final/config.json
+car_brand_model_final/generation_config.json
+car_brand_model_final/model.safetensors
+car_brand_model_final/preprocessor_config.json
+car_brand_model_final/special_tokens_map.json
+car_brand_model_final/tokenizer.json
+car_brand_model_final/tokenizer_config.json
+car_brand_model_final/vocab.txt
